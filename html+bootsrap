@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Navbar</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Features</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Pricing</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  pilih
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">mau</a></li>
+                  <li><a class="dropdown-item" href="#">mau dong</a></li>
+                  <li><a class="dropdown-item" href="#">mau banget</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    
+    <div class="container">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur itaque libero, rem consequatur expedita minima et voluptatibus odit in unde ex voluptatum optio qui assumenda at consequuntur. Aperiam atque nobis similique doloremque. Molestias fuga rerum, ducimus aut sequi illo tempore consectetur illum, dolorum vitae quam nulla accusantium ullam. Perferendis hic dignissimos optio quisquam nam deserunt illo placeat, reprehenderit quidem fugiat ea nisi recusandae fugit minima porro id earum neque sapiente corrupti suscipit dolores facere sunt? Deleniti alias cumque culpa similique doloremque sit nulla quas? Velit voluptates vel, suscipit modi aspernatur perspiciatis nesciunt ipsa facere autem consequuntur asperiores obcaecati dolor ducimus recusandae enim quasi doloremque ullam. Veritatis, corporis inventore. Aperiam corrupti perferendis optio possimus nobis exercitationem distinctio qui harum! Aliquid reprehenderit perferendis rerum ipsum repellendus! Totam facere consequuntur accusamus, quo fugit sed molestiae blanditiis alias aperiam voluptates aspernatur incidunt ratione corporis error enim asperiores soluta perferendis voluptas omnis? Voluptate velit optio maxime accusantium qui expedita, placeat soluta sunt vero perspiciatis possimus illo rerum voluptatem, eos officiis harum quo pariatur repellat blanditiis. Similique soluta reprehenderit doloribus molestias distinctio possimus, aspernatur animi dicta, natus ipsum at, autem exercitationem dolores vero iure ex! Exercitationem non cumque, sit recusandae aut amet earum ipsa at deleniti.
+        <div class="container">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora eligendi, labore, aspernatur tempore numquam exercitationem laudantium officiis perferendis velit blanditiis repudiandae placeat eveniet esse odio minima veritatis adipisci nobis perspiciatis tenetur ipsa libero enim cum provident a? Voluptatem accusamus corporis ex voluptatum officiis ullam sit eaque odio vero itaque earum quo quis eius iste maxime ea harum nulla sunt voluptatibus adipisci porro vitae, veritatis rem. Asperiores, voluptate autem explicabo hic similique voluptas cumque et sint reprehenderit expedita quia perferendis earum laudantium, deleniti dolor vitae facere distinctio at tempore libero in consequuntur impedit veniam placeat. Qui accusantium libero architecto omnis, repudiandae aspernatur voluptates eum nam culpa aliquam officiis, neque vel iste! Voluptates corporis nostrum vitae magnam porro aut eos temporibus consectetur praesentium saepe libero maiores iure, laborum asperiores ut aliquid voluptatem facere nemo! Architecto nihil incidunt sint nemo, qui ea quasi accusamus libero iste, inventore odio aperiam aspernatur distinctio nesciunt ullam. Quaerat rerum voluptate explicabo ea minima libero mollitia iste quia consectetur doloribus, amet quidem molestias ratione itaque fuga expedita nam eaque fugiat placeat tempora officiis eum blanditiis porro voluptates? Ipsa repudiandae consequatur qui obcaecati, fugiat minima possimus eum, sit delectus rem iusto architecto magni debitis deleniti eligendi corporis pariatur suscipit nostrum odit sequi sint nam eos temporibus? Velit atque quia eligendi, quas accusantium doloribus consectetur est minima sint ex amet nobis quis quo id magni natus quod dolorum adipisci vel debitis hic quidem architecto alias saepe. Voluptatum, eaque ea perspiciatis rem totam veritatis nihil odit quisquam, eligendi ipsa modi sequi quo alias, exercitationem repellat perferendis distinctio dolorum. Doloremque repellendus ipsum nihil laborum ducimus vitae laudantium delectus temporibus accusamus quaerat. Non amet magni harum necessitatibus corrupti a aliquam dolorem eligendi animi aliquid quibusdam natus sed minima dicta cumque libero, commodi ipsam rem maiores sequi aperiam nemo esse enim! Iusto, sint culpa!
+        </div>
+        <div class="row">
+            <div class="col">
+                <h3>bagian1</h3>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi cupiditate repellendus aliquid officiis pariatur laudantium sint numquam doloribus commodi dignissimos expedita culpa omnis magni nemo veritatis nulla, voluptas atque hic? Iure unde assumenda quisquam voluptatem. Officiis sed similique quas, excepturi, ab ipsum odit omnis labore nobis culpa quam sequi autem!
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <h3>kolom1</h3>
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae provident sunt optio labore similique qui nesciunt, impedit reiciendis animi aut id, fugit in, soluta unde sint assumenda ab repellat obcaecati inventore dolore quo. Ipsa, exercitationem laborum asperiores, dolores autem nihil, nesciunt praesentium sit omnis odit voluptatem ab? Quos, labore rerum.
+            </div>
+            <div class="col">
+                <h3>kolom2</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, sit neque? Nihil quas laborum cupiditate magnam nobis nisi est labore ducimus earum quis possimus deserunt enim dolor rem harum assumenda illo, magni maxime minima dolorum tenetur tempore nesciunt. Ex, adipisci. A assumenda fugiat maiores pariatur illum itaque molestiae, ipsam voluptate?</p>            
+            </div>
+            <div class="col">
+                <h3>kolom3</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, debitis nihil expedita tenetur sint incidunt quis voluptate eius assumenda velit dolorem, iure, amet quaerat et ullam voluptatum mollitia numquam labore repellendus necessitatibus fugit odio perferendis nisi facilis? Eaque illum perspiciatis ullam, maiores quo dicta aliquid magnam iure libero eveniet dolor.</p>            
+            </div>
+            <div class="col">
+                <h3>kolom4</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio sunt ducimus similique velit dolor esse facere et explicabo voluptatem quibusdam, neque consequuntur voluptates laborum odio consectetur accusamus dolorum quas earum quasi ad? Qui totam, omnis harum facilis quam odio accusantium debitis quaerat pariatur atque quod sit, molestiae illo? Rerum, facilis</p>   
+            </div>
+        </div>
+        <div class="col">
+            <h3>footer</h3>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere quis veniam suscipit pariatur! Recusandae soluta ullam vitae ratione provident harum aspernatur iste eveniet facilis nulla. Autem facilis quod voluptates quidem!
+        </div>
+        <p><table class="table">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">First</th>
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Otto</td>
+                <td>@mdo</td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Jacob</td>
+                <td>Thornton</td>
+                <td>@fat</td>
+              </tr>
+              <tr>
+                <th scope="row">3</th>
+                <td colspan="2">Larry the Bird</td>
+                <td>@twitter</td>
+              </tr>
+            </tbody>
+          </table></p>
+          <p></p>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
